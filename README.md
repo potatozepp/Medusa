@@ -167,7 +167,7 @@ This starter kit is an ideal solution for developers who need to set up a profes
 ## Quickstart
 
 ```bash
-git clone git@github.com:Agilo/fashion-starter.git
+git clone git@github.com:potatozepp/Medusa.git
 ```
 
 ### Medusa
